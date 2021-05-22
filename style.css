@@ -1,0 +1,37 @@
+.text{
+    color: blue;
+    font-style: italic;
+    font-size: 100px;
+}
+
+div>h1 {
+    display: inline-flex;
+    margin: 15px;
+    font-size: 50px;
+    color: chartreuse;
+    border: 1px sold black;
+    border-radius: 100%;
+    background-color: rgb(180, 87, 21);
+}
+
+body {
+    text-align: center;
+    background-color:#dec512f2;
+}
+
+button {
+    border: none;
+    padding: 10px 20px 10px 20px;
+    margin: 3px;
+    background-color: whitesmoke;
+    color: teal;
+    border-radius: 50px;
+    width: 80px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+button:hover {
+    color: rgb(255, 255, 255);
+    background-color:blue;
+}
